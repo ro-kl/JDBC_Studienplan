@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Wed Jan 13 11:44:38 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0152-3a96-596c-00000728cc00 
+on database directory C:\Users\roman\Desktop\gdb-Aufgabe6-Bibliotheken\gdb-praktikum-javaDB_10.10\gdb-praktikum with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/C:/Users/roman/Desktop/gdb-Aufgabe6-Bibliotheken/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=C:\Users\roman\Desktop\GDB_Kluth_A6
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jan 13 11:48:04 CET 2016:
+Shutting down instance a816c00e-0152-3a96-596c-00000728cc00 on database directory C:\Users\roman\Desktop\gdb-Aufgabe6-Bibliotheken\gdb-praktikum-javaDB_10.10\gdb-praktikum with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
